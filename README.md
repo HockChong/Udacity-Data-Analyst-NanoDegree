@@ -41,6 +41,7 @@ and building supervised learning models._
 _Learn the data wrangling process of gathering, assessing, and cleaning data. Learn to use Python to
 wrangle data programmatically and prepare it for analysis._
 
+
 ### 🖊️Project #4 Wrangle and Analyze Data
 
 ***
@@ -49,6 +50,16 @@ wrangle data programmatically and prepare it for analysis._
 ## Key Learning ##
 _Learn to apply visualization principles to the data analysis process. Explore data visually at multiple levels to
 find insights and create a compelling story._
+
+- Data Visualization in Data Analysis
+- Design of Visualizations
+- Univariate Exploration of Data
+- Bivariate Exploration of Data
+- Multivariate Exploration of Data
+- Explanatory Visualizations
+- Visualization Case Study
+- Project - Communicate Data Findings
+
 ### 🖊️Project #5 Communicate Data Findings
 
 ***
