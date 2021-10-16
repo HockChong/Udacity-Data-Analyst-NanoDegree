@@ -6,7 +6,7 @@ View the [course](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
 ***
 
-# 📚 Projects
+# 📚 Course
 
 
 ## Part 1: Welcome to the Nanodegree Program
@@ -18,9 +18,22 @@ View the [course](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 ***
 
 ## Part 2: Introduction to Data Analysis
-## Key Learning ##
+<details>
+<summary>
+Key Learning
+</summary>
+  
 _Learn the data analysis process of wrangling, exploring, analyzing, and communicating data. Work with data in
 Python, using libraries like NumPy and Pandas._
+
+- Ananconda
+- Juoyter Notebooks
+- The Data Analysis Process
+- Data Analysis Process - Case Study 1
+- Data Analysis Process - Case Study 2
+- Programming Workflow for Data Analysis
+  
+</details>
 
 ### 🖊️ [Project #2 TMDb Movie Analysis](https://github.com/HockChong/Udacity-Data-Analyst-NanoDegree/tree/main/Project%20%232%20TMDb%20Movie%20Analysis)
 
@@ -28,26 +41,59 @@ Python, using libraries like NumPy and Pandas._
 ***
 
 ## Part 3: Practical Statistics
-## Key Learning ##
+<details>
+<summary>
+Key Learning
+</summary>
+
 _Learn how to apply inferential statistics and probability to real-world scenarios, such as analyzing A/B tests
 and building supervised learning models._
+
+- Descriptive Statistics - Part I
+- Descriptive Statistics - Part II
+- Admissions Case Study
+- Probability
+- Binomial Distribution
+- Conditional Probability
+- Bayes Rule
+- Python Probability Practice
+- Normal Distribution Theory
+- Sampling Distributions and the Central Limit Theorem
+- Confidence Intervals
+- Hypothesis Testing
+- Case Study: A/B Tests
+- Regression
+- Multiple Linear Regression
+- Logistic Regression
+- Analyze A/B Test Results
+  
+ </details>
 
 ### 🖊️[Project #3 Analyze A/B Test Results](https://github.com/HockChong/Udacity-Data-Analyst-NanoDegree/tree/main/Project%20%233%20Analyze%20AB%20Test%20Results)
 
 ***
 
 ## Part 4: Data Wrangling
-## Key Learning ##
+<details>
+<summary>
+Key Learning
+</summary>
+  
 _Learn the data wrangling process of gathering, assessing, and cleaning data. Learn to use Python to
 wrangle data programmatically and prepare it for analysis._
 
+</details>
 
 ### 🖊️Project #4 Wrangle and Analyze Data
 
 ***
 
 ## Part 5: Data Visualization
-## Key Learning ##
+<details>
+<summary>
+Key Learning
+</summary>
+  
 _Learn to apply visualization principles to the data analysis process. Explore data visually at multiple levels to
 find insights and create a compelling story._
 
@@ -59,6 +105,7 @@ find insights and create a compelling story._
 - Explanatory Visualizations
 - Visualization Case Study
 - Project - Communicate Data Findings
+</details>
 
 ### 🖊️Project #5 Communicate Data Findings
 
