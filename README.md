@@ -13,7 +13,7 @@ View the [course](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
 
 ### 🖊️ [Project #1 Explore Weather Trends](https://github.com/HockChong/Udacity-Data-Analyst-NanoDegree/tree/main/Project%20%231%20Explore%20Weather%20Trends)
-
+- Analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
 
 ***
 
@@ -36,7 +36,7 @@ Python, using libraries like NumPy and Pandas._
 </details>
 
 ### 🖊️ [Project #2 TMDb Movie Analysis](https://github.com/HockChong/Udacity-Data-Analyst-NanoDegree/tree/main/Project%20%232%20TMDb%20Movie%20Analysis)
-
+- Use Python to clean data, explore and analyze the most popular movie genres and high revenue movies insights.
 
 ***
 
@@ -70,6 +70,7 @@ and building supervised learning models._
  </details>
 
 ### 🖊️[Project #3 Analyze A/B Test Results](https://github.com/HockChong/Udacity-Data-Analyst-NanoDegree/tree/main/Project%20%233%20Analyze%20AB%20Test%20Results)
+- Run AB tests to help the company understand whether the new page leads to more conversion rate.
 
 ***
 
